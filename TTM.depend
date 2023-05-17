@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1516676332 source:c:\users\ashutosh\desktop\ttm\main.cpp
+	<fstream>
+	<dos.h>
+	"ashid.h"
+	"resource.h"
+
+1514828812 c:\users\ashutosh\desktop\ttm\ashid.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1496592140 c:\users\ashutosh\desktop\ttm\resource.h
+
+1499709478 source:c:\users\ashutosh\desktop\ttm\resources.rc
+	"resource.h"
+
+1499709478 source:c:\users\ashutosh\desktop\ttm\ttm\resources.rc
+	"resource.h"
+
+1496592140 c:\users\ashutosh\desktop\ttm\ttm\resource.h
+
+1521021251 source:c:\users\ashutosh\desktop\ttm\ttm\main.cpp
+	<fstream>
+	<dos.h>
+	"ashid.h"
+	"resource.h"
+
+1514828812 c:\users\ashutosh\desktop\ttm\ttm\ashid.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1526641931 source:c:\users\ashutosh\desktop\computer science\ttm\ttm\main.cpp
+	<fstream>
+	<dos.h>
+	"ashid.h"
+	"resource.h"
+	"dlg1.cpp"
+
+1514828812 c:\users\ashutosh\desktop\computer science\ttm\ttm\ashid.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1524742191 c:\users\ashutosh\desktop\computer science\ttm\ttm\resource.h
+
+1524742833 source:c:\users\ashutosh\desktop\computer science\ttm\ttm\resources.rc
+	"resource.h"
+
+1524743741 source:c:\users\ashutosh\desktop\computer science\ttm\ttm\dlg1.cpp
+	<windows.h>
+	"resource.h"
+
+1524743608 source:c:\users\ashutosh\desktop\computer science\ttm\ttm\dlg1resources.rc
+	"resource.h"
+	"afxres.h"
+
+1524743741 c:\users\ashutosh\desktop\computer science\ttm\ttm\dlg1.cpp
+	<windows.h>
+	"resource.h"
+

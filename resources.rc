@@ -1,0 +1,6 @@
+
+#include "resource.h"
+
+
+IDI_ICON        ICON        "C:\\Users\\ASHUTOSH\\Desktop\\Computer Science\\TTM\\TTM\\ttmico.ico"
+
